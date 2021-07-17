@@ -3,11 +3,11 @@ This is a repository of my work in the Summer of Code project in Tools for Data 
 
 The repository contains three task submissions as well as a notebook of the final self project. The final self project is supplemented by images and csv's of results generated throughout the same.
 
-Task-1: linear regression and use of basic libraries. Submitted on April 10 [Before of Checkpoint 1]
+Task-1: linear regression and use of basic libraries. Submitted on April 10 [Before of Checkpoint 1]. (Original submission: https://github.com/Tools-For-Data-Science-SOC/tasks/blob/main/task1/Pinaapple_Sluts/task1.ipynb)
 
-Task-2: more complex regression problems. Submitted on May 13 [Before of Checkpoint 2]
+Task-2: more complex regression problems. Submitted on May 13 [Before of Checkpoint 2] (Original submission: https://github.com/Tools-For-Data-Science-SOC/tasks/blob/main/task2/Pineapple_People/task2.ipynb)
 
-Task-3: PCA and supervised classification-based problems. Submitted on May 30 [Before of Checkpoint 2]
+Task-3: PCA and supervised classification-based problems. Submitted on May 30 [Before of Checkpoint 2] (Original submission: https://github.com/Tools-For-Data-Science-SOC/tasks/blob/main/task3/Pineapple_People/task3.ipynb)
 
 CDD-project: Final project folder, based on Computational Drug Discovery. Submitted on 17 July [Before Checkpoint 3]
 
